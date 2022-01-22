@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "axfVrRtyouVWub+EWVZ+i+UIMrUn4CgNN0jydHd5BdxNMccvH/RMXLOsTPrxlfbjVMRJYqeh9qOFwCR5C3wzMA==",
+  "success": true,
+  "projectFilePath": "/home/nick/arch-is-the-best/C#/C#.csproj",
+  "expectedPackageFiles": [
+    "/home/nick/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
