@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "goWtl3CpPDEQOfOf1YmK8bX+htAsil9kLPjLi+uV2WDJbLd7pludKxg9wjhzgFxfqXXZ4r4GJQsjlnoIX4syZw==",
+  "success": true,
+  "projectFilePath": "/home/nick/arch-is-the-best/F#/archisthebest/archisthebest.fsproj",
+  "expectedPackageFiles": [
+    "/home/nick/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/nick/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

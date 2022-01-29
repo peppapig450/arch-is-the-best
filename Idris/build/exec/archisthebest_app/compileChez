@@ -1,0 +1,1 @@
+(parameterize ([optimize-level 3] [compile-file-message #f]) (compile-program "/home/nick/arch-is-the-best/Idris/build/exec/archisthebest_app/archisthebest.ss"))
