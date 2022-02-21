@@ -1,0 +1,4 @@
+v 4
+file . "archisthebest.vhdl" "27984a75d59e359adad3aa2ef076d63d280f93d4" "20220219015550.132":
+  entity arch_is_the_best at 1( 0) + 0 on 11;
+  architecture behaviour of arch_is_the_best at 6( 71) + 0 on 12;
