@@ -1,0 +1,5 @@
+(define (main)
+  (display "Arch is the best!")
+  (newline))
+(main)
+(exit)

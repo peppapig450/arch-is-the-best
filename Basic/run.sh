@@ -1,4 +1,7 @@
-#!/bin/dash 
+#!/bin/sh
+
 if [ -f archisthebest -a -x archisthebest ]; then
-  ./archisthebest
+	./archisthebest
+else
+	fbc archisthebest.bas && ./archisthebest
 fi
