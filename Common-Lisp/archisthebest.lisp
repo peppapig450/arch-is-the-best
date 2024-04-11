@@ -1,3 +1,3 @@
 #!/usr/bin/sbcl --script
 
-(princ "Arch is the best!")
+(format t "Arch is the best!~%")

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nJGMTJSPy5X/TL+Hc9bzOjH2Dg4LZTC49slsCCt+zCbyJsvTgt0J4eufIRO4hS0NpauoOYq7paaOimi19T3yCA==",
+  "dgSpecHash": "kdg4VHGt4iLFsvfiaX9M8iV6EKTlspF7fYmQ67o1m1pvES5CpjDeRMD6GVU/ia4MxZIlsQaWChvXlf4Tc53Z2g==",
   "success": true,
   "projectFilePath": "/home/nick/arch-is-the-best/C#/C#.csproj",
   "expectedPackageFiles": [
-    "/home/nick/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+    "/home/nick/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }
